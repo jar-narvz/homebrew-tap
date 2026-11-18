@@ -1,6 +1,6 @@
 cask "multi-link" do
-  version "1.19"
-  sha256 "30a20284ac8a1727e53c0641819de544f3d39c3713cc0770e83dc39d82b1c734"
+  version "1.20"
+  sha256 "4f8e8785dee2f98e5b41fa0128e746076268b3e0799a3d3f7b1965d2e2b7bcd1"
 
   url "https://github.com/jar-narvz/multi-link/releases/download/v#{version}/multi-link-#{version}-arm64.dmg"
   name "multi-link"
